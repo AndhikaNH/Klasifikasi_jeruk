@@ -4,12 +4,12 @@ import joblib
 
 st.set_page_config(
 	page_title = "Belajar Klasifikasi Jeruk",
-	page_icon = ":tangerine:"
+	page_icon = ":nerd_face:"
 )
 
 model = joblib.load("model_klasifikasi_jeruk.joblib")
 
-st.title(":tangerine: Belajar Klasifikasi Jeruk")
+st.title(":nerd_face: Belajar Klasifikasi Jeruk")
 st.markdown("Aplikasi machine learning classification untuk memprediksi kualitas jeruk")
 
 diameter = st.slider("Diameter", 4.0, 10.0, 6.5)
