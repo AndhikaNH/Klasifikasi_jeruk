@@ -49,7 +49,7 @@ belajar_klasifikasi_jeruk/
 
 ### 1. Clone & Masuk Folder
 ```bash
-git clone https://github.com/username/klasifikasi-jeruk.git
+git clone https://github.com/AndhikaNH/klasifikasi-jeruk.git
 cd klasifikasi-jeruk
 ```
 
