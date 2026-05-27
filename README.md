@@ -1,6 +1,6 @@
 # 🍊 Klasifikasi Kualitas Jeruk
 
-Proyek machine learning untuk memprediksi kualitas jeruk berdasarkan karakteristik fisik dan asal daerahnya. Dibuat sebagai materi pembelajaran Data Science untuk kelas 11 RPL SMKN 1 Purbalingga.
+Proyek machine learning untuk memprediksi kualitas jeruk berdasarkan karakteristik fisik dan asal daerahnya. 
 
 ## 📋 Deskripsi
 
